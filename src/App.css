@@ -1,0 +1,99 @@
+.main-box1 .bg-body-tertiary {
+  background-color: #142b2f !important;
+}
+
+.nav-icons {
+  display: flex;
+  column-gap: 20px;
+}
+
+.main-box1 .navbar-expand-lg .navbar-collapse {
+  justify-content: center;
+}
+
+.nav-drop .dropdown-toggle {
+  color: #ffffff;
+}
+
+.nav-btn {
+  font-size: 19px;
+  font-weight: 500;
+  color: #142b2f;
+  line-height: 25px;
+  border: 0;
+  border-radius: 35px;
+  width: 34px;
+  height: 34px;
+  background: #65beac;
+}
+
+.nav-icons1 button {
+  border: 0;
+  background: none;
+  width: 38px;
+}
+
+.main-box1.navbar-nav .nav-link.active {
+  color: #ffffff;
+}
+
+.main-box1 .dropdown-toggle:hover {
+  color: #dad4d4;
+}
+
+.inner-chatname {
+  padding: 20px;
+  padding-left: 15px;
+  border-bottom: 1px solid #ffffff;
+
+}
+
+.inner-chatname2 {
+  width: 99%;
+  width: 99%;
+  overflow: auto;
+  height: calc(100vh - 211px);
+  scrollbar-width: none;
+}
+
+.inner-chatname-span {
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 26.1px;
+}
+
+.chatname-form {
+  margin-top: 10px;
+}
+
+.chatname-box {
+  background-color: #eff0f5;
+  border-right: 3px solid #E3EDF0;
+  height: calc(100vh - 60px);
+
+}
+
+.chatname-col {
+  position: relative;
+}
+
+.serchicon-box {
+  position: absolute;
+  top: 8px;
+  left: 24px;
+}
+
+.chatname-col .form-control {
+  padding: 10px;
+  padding-left: 40px;
+  border: 0;
+}
+
+.chatname-col .form-control::placeholder {
+  color: #1AB192;
+}
+
+.my-Emoji {
+  width: 100%;
+}
