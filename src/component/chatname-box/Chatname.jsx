@@ -8,7 +8,6 @@ import serchicon from "../../Assets/img/header-img/Union.svg";
 import btnimg1 from "../../Assets/img/header-img/Rectangle 29.svg";
 import Chatbox from "../chatbox/Chatbox";
 import Blank from "../blank/Blank";
-import Header from "../headar/Header";
 function Chatname() {
   const [activeChatId, setActiveChatId] = useState(null);
   const [selectedChat, setSelectedChat] = useState(null); // State to store the selected chat
@@ -41,7 +40,6 @@ function Chatname() {
   };
   return (
     <>
-      <Header />
       <section className="main-box2">
         <Container fluid>
           <Row className="my-row">
