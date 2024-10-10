@@ -16,7 +16,7 @@ function App() {
       <Header />
 
       <Routes>
-        <Route path="/home" element={<Chatname />} />
+        <Route path="/" element={<Chatname />} />
         <Route path="/Chatbox" element={<Chatbox />} />
 
       </Routes>
