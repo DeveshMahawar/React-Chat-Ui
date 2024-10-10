@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/React-Chat-Ui2/static/css/main.9f3a9825.css",
+    "main.js": "/React-Chat-Ui2/static/js/main.96776d3e.js",
+    "static/media/Rectangle 30.svg": "/React-Chat-Ui2/static/media/Rectangle 30.bced7ab7b5ed23d074a1203ad7bd0493.svg",
+    "static/media/Frame 13213158032.svg": "/React-Chat-Ui2/static/media/Frame 13213158032.4dab7954c76f3f0b72fb25bc97a609aa.svg",
+    "static/media/Frame 1321315803.svg": "/React-Chat-Ui2/static/media/Frame 1321315803.84bf6cd03cfd588c6bdf93204b40135a.svg",
+    "static/media/Rectangle 29.svg": "/React-Chat-Ui2/static/media/Rectangle 29.9456796385be970641878f9966f115a0.svg",
+    "static/media/logo.svg": "/React-Chat-Ui2/static/media/logo.20df06ca1d75221e999d8ac423f5e033.svg",
+    "static/media/Union.svg": "/React-Chat-Ui2/static/media/Union.7e08be99e3d638eab8d641d5f8e22f47.svg",
+    "static/media/Notification.svg": "/React-Chat-Ui2/static/media/Notification.0ae4c0c8df4e2637001b6a13cee3d1c8.svg",
+    "static/media/add.svg": "/React-Chat-Ui2/static/media/add.bd5249c16c08cb38263cae1cf614924c.svg",
+    "static/media/voice.svg": "/React-Chat-Ui2/static/media/voice.0f3b325449dbc0cfcf1a8ec0f1f65142.svg",
+    "static/media/carbon_phone-filled.svg": "/React-Chat-Ui2/static/media/carbon_phone-filled.11f5bb4788061159f57e6254df2eda61.svg",
+    "static/media/Vector.svg": "/React-Chat-Ui2/static/media/Vector.9b6bb482f79ae77d37a2a764c67e1499.svg",
+    "static/media/search.svg": "/React-Chat-Ui2/static/media/search.ec8de5889f3e701786c71fce6b8d6328.svg",
+    "static/media/Cart.svg": "/React-Chat-Ui2/static/media/Cart.24b325354c38599cba62327367caeaab.svg",
+    "static/media/Call.svg": "/React-Chat-Ui2/static/media/Call.fc0648a48d812c1c3df9886a57649815.svg",
+    "static/media/Group 1321315809.svg": "/React-Chat-Ui2/static/media/Group 1321315809.661a7d1f117aa8ee4bbd814802c8dc88.svg",
+    "index.html": "/React-Chat-Ui2/index.html",
+    "static/media/Vector2.svg": "/React-Chat-Ui2/static/media/Vector2.ff3e4ecf1def299f5627cd780e566f3f.svg",
+    "main.9f3a9825.css.map": "/React-Chat-Ui2/static/css/main.9f3a9825.css.map",
+    "main.96776d3e.js.map": "/React-Chat-Ui2/static/js/main.96776d3e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f3a9825.css",
+    "static/js/main.96776d3e.js"
+  ]
+}
