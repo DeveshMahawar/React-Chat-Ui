@@ -16,7 +16,7 @@ function App() {
       <Header />
 
       <Routes>
-        <Route path="/" element={<Chatname />} />
+        <Route path="React-Chat-Ui2" element={<Chatname />} />
         <Route path="/Chatbox" element={<Chatbox />} />
 
       </Routes>
