@@ -97,3 +97,20 @@
 .my-Emoji {
   width: 100%;
 }
+
+.back-btn {
+  display: none;
+}
+
+@media (max-width: 480px) {
+  .back-btn {
+    display: inline-block;
+    background-color: #007bff;
+    /* Optional styling */
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+}

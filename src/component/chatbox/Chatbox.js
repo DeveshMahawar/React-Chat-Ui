@@ -1,6 +1,7 @@
 import React from 'react'
 import { useState, useEffect, useRef } from 'react';
 import { Col, Row, Form } from 'react-bootstrap';
+import { useNavigate } from 'react-router-dom';
 import EmojiPicker from 'emoji-picker-react';
 import btnimg2 from '../../Assets/img/header-img/Rectangle 30.svg'
 import chatimg1 from '../../Assets/img/chatbox/Group 1321315809.svg'
@@ -14,6 +15,7 @@ import sendimg3 from '../../Assets/img/chatbox/voice.svg'
 import chatprofile1 from '../../Assets/img/chatProfile/Frame 1321315803.svg'
 import chatprofile2 from '../../Assets/img/chatProfile/Frame 13213158032.svg'
 import chatprofile3 from '../../Assets/img/chatProfile/Call.svg'
+import { IoIosArrowRoundBack } from "react-icons/io";
 
 
 
@@ -72,12 +74,20 @@ function Chatbox() {
             messagesEndRef.current.scrollIntoView({ behavior: 'smooth' });
         }
     }, [messages]);
+
+    // -----------------------------------back btn ----------------------
+    const navigate = useNavigate(); // Initialize navigate
+
+    const handleBack = () => {
+        navigate(-1); // Go back to the previous page
+    };
     return (
         <>
             <Row className='p-0 m-0'>
                 <Col className='p-0'>
                     <div className='chat-box'>
                         <div className='chat-box-head'>
+                            <button onClick={handleBack} className="back-btn"><IoIosArrowRoundBack /></button>
                             <div className='chat-box-head2'>
                                 <div className='chat-box-head-img'>
                                     <img src={btnimg2} alt='dff20' />
